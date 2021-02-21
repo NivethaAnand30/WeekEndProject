@@ -6,6 +6,14 @@ public class Hello {
 		System.out.println("Welcome");
 		System.out.println("Hello");
 
+		System.out.println("Welcome!!");
+		
+		System.out.println("Hi");
+		System.out.println("Done");
+
+		
+
+
 	}
 
 }
